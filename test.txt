@@ -1,3 +1,7 @@
 :more 
 planets
+<<<<<<< HEAD
 conflict1
+=======
+how	
+>>>>>>> f7925fa471aee67dfe4934553e063b2c8d4405ef
